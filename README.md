@@ -1,2 +1,3 @@
 # techedu
-school
+
+Study Hard!!!
